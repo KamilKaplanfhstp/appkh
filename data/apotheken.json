@@ -1,0 +1,1882 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 330,
+    "features": [
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_527f",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.380397481548982, 48.21511187051716]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853925,
+          "BEZEICHNUNG": "Apotheke der Barmherzigen Brüder",
+          "BEZIRK": 2,
+          "STRASSE": "Taborstraße",
+          "ONR": "16",
+          "ADRESSE": "2., Taborstraße 16",
+          "TELEFON": "01 214 41 04",
+          "FAX": "01 214 41 04",
+          "EMAIL": "apotheke@bbwien.at",
+          "WEBLINK1": "http://www.barmherzige-brueder.at/bbwien/index1.ht",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5280",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.388240009797546, 48.219447445668024]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853926,
+          "BEZEICHNUNG": "Apotheke \"Zur Hoffnung\"",
+          "BEZIRK": 2,
+          "STRASSE": "Heinestraße",
+          "ONR": "37",
+          "ADRESSE": "2., Heinestraße 37",
+          "TELEFON": "01 214 64 21",
+          "FAX": "01 214 64 21",
+          "EMAIL": "info@apotheke-zur-hoffnung.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5281",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.398632039955352, 48.20593374027025]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853927,
+          "BEZEICHNUNG": "Lotos-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Wittelsbachstraße",
+          "ONR": "4",
+          "ADRESSE": "2., Wittelsbachstraße 4",
+          "TELEFON": "01 728 09 44",
+          "FAX": "01 728 09 44",
+          "EMAIL": "postmaster@lotosapotheke.at",
+          "WEBLINK1": "http://www.lotosapotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5282",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.403004379569303, 48.22275865670622]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853928,
+          "BEZEICHNUNG": "Erzherzog Karl-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Ennsgasse",
+          "ONR": "23",
+          "ADRESSE": "2., Ennsgasse 23",
+          "TELEFON": "01 728 05 22",
+          "FAX": "01 728 05 22",
+          "EMAIL": "erzherzogkarlapo@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5283",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.372658820232253, 48.22082320615187]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853929,
+          "BEZEICHNUNG": "Augarten-Apotheke \"Zum heiligen Leopold\"",
+          "BEZIRK": 2,
+          "STRASSE": "Untere Augartenstraße",
+          "ONR": "13",
+          "ADRESSE": "2., Untere Augartenstraße 13",
+          "TELEFON": "01 332 75 62",
+          "FAX": "01 332 75 62",
+          "EMAIL": "office@augarten-apotheke.at",
+          "WEBLINK1": "http://www.augarten-apotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5284",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.391648332556287, 48.214442390038286]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853930,
+          "BEZEICHNUNG": "Franzensbrücken-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Franzensbrückenstraße",
+          "ONR": "17",
+          "ADRESSE": "2., Franzensbrückenstraße 17",
+          "TELEFON": "01 214 31 91",
+          "FAX": "01 214 31 91",
+          "EMAIL": "bestapo@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5285",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.369413612467245, 48.225586088895255]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853931,
+          "BEZEICHNUNG": "Mathilden-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Gaußplatz",
+          "ONR": "3",
+          "ADRESSE": "2., Gaußplatz 3",
+          "TELEFON": "01 330 33 16",
+          "FAX": "01 330 33 16",
+          "EMAIL": null,
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5286",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.41697744340612, 48.21389794506531]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853932,
+          "BEZEICHNUNG": "Apotheke im Stadion Center",
+          "BEZIRK": 2,
+          "STRASSE": "Olympiaplatz",
+          "ONR": "2/Top 1",
+          "ADRESSE": "2., Olympiaplatz 2/Top 1",
+          "TELEFON": "01 728 02 33",
+          "FAX": "01 728 02 33",
+          "EMAIL": "freudenauer-apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5287",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.377377004385085, 48.216677452242955]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853933,
+          "BEZEICHNUNG": "Schlangen-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Hollandstraße",
+          "ONR": "15",
+          "ADRESSE": "2., Hollandstraße 15",
+          "TELEFON": "01 214 56 65",
+          "FAX": "01 214 56 65",
+          "EMAIL": "schlangenapotheke@chello.at",
+          "WEBLINK1": "http://www.schlangenapotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5288",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.390092102028074, 48.20262523089102]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853934,
+          "BEZEICHNUNG": "Sankt Rochus-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Landstraßer Hauptstraße",
+          "ONR": "50",
+          "ADRESSE": "3., Landstraßer Hauptstraße 50",
+          "TELEFON": "01 712 57 02",
+          "FAX": "01 712 57 02",
+          "EMAIL": "strochusapotheke@speed.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5289",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.401008207777576, 48.19076515181088]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853935,
+          "BEZEICHNUNG": "Paulus-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Landstraßer Hauptstraße",
+          "ONR": "171",
+          "ADRESSE": "3., Landstraßer Hauptstraße 171",
+          "TELEFON": "01 712 14 63",
+          "FAX": "01 712 14 63",
+          "EMAIL": "gesund@paulus-apotheke.at",
+          "WEBLINK1": "http://www.paulus-apotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528a",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.390176006125845, 48.21115283465065]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853936,
+          "BEZEICHNUNG": "Apotheke \"Zum Feldmarschall Radetzky\"",
+          "BEZIRK": 3,
+          "STRASSE": "Radetzkyplatz",
+          "ONR": "4",
+          "ADRESSE": "3., Radetzkyplatz 4",
+          "TELEFON": "01 712 64 36",
+          "FAX": "01 712 64 36",
+          "EMAIL": "radetzkyapotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528b",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.387740827565953, 48.19087520583261]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853937,
+          "BEZEICHNUNG": "Fasan-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Hohlweggasse",
+          "ONR": "21",
+          "ADRESSE": "3., Hohlweggasse 21",
+          "TELEFON": "01 798 51 30",
+          "FAX": "01 798 51 30",
+          "EMAIL": "info@fasan-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528c",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.33025179034211, 48.177924477792985]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853953,
+          "BEZEICHNUNG": "Apotheke \"Zum Schutzengel\"",
+          "BEZIRK": 12,
+          "STRASSE": "Meidlinger Hauptstraße",
+          "ONR": "45",
+          "ADRESSE": "12., Meidlinger Hauptstraße 45",
+          "TELEFON": "01 813 63 74",
+          "FAX": "01 813 63 74",
+          "EMAIL": "apo.schutzengel12@inode.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528d",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.37009118404771, 48.23562363402708]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853954,
+          "BEZEICHNUNG": "Arkaden-Apotheke",
+          "BEZIRK": 20,
+          "STRASSE": "Jägerstraße",
+          "ONR": "69",
+          "ADRESSE": "20., Jägerstraße 69",
+          "TELEFON": "01 350 72 72",
+          "FAX": "01 350 72 72",
+          "EMAIL": "info@arkadenapotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528e",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.380534529963242, 48.24396951457755]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853955,
+          "BEZEICHNUNG": "Apotheke Aurora",
+          "BEZIRK": 20,
+          "STRASSE": "Engerthstraße",
+          "ONR": "52",
+          "ADRESSE": "20., Engerthstraße 52",
+          "TELEFON": "01 332 27 70",
+          "FAX": "01 332 27 70",
+          "EMAIL": "office@apoaurora.at",
+          "WEBLINK1": "http://www.apoaurora.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_528f",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.395543443836342, 48.255006693589486]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853956,
+          "BEZEICHNUNG": "Apotheke \"Zur blauen Donau\"",
+          "BEZIRK": 21,
+          "STRASSE": "Floridsdorfer Hauptstraße",
+          "ONR": "20",
+          "ADRESSE": "21., Floridsdorfer Hauptstraße 20",
+          "TELEFON": "01 278 12 25",
+          "FAX": "01 278 12 25",
+          "EMAIL": "blauedonau@utanet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5290",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.410414558273523, 48.25414208049104]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853957,
+          "BEZEICHNUNG": "Apotheke \"Zur Mariazeller Muttergottes\"",
+          "BEZIRK": 21,
+          "STRASSE": "Donaufelder Straße",
+          "ONR": "22",
+          "ADRESSE": "21., Donaufelder Straße 22",
+          "TELEFON": "01 271 11 87",
+          "FAX": "01 271 11 87",
+          "EMAIL": "apotheke-kling@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5291",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.4005990240446, 48.26296649702058]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853958,
+          "BEZEICHNUNG": "Rosen-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Brünner Straße",
+          "ONR": "37",
+          "ADRESSE": "21., Brünner Straße 37",
+          "TELEFON": "01 278 13 13",
+          "FAX": "01 278 13 13",
+          "EMAIL": "rosen-apo@aponet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5292",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.39198655060654, 48.26817424821598]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853959,
+          "BEZEICHNUNG": "Apotheke \"Zum Schutzengel\"",
+          "BEZIRK": 21,
+          "STRASSE": "Prager Straße",
+          "ONR": "81",
+          "ADRESSE": "21., Prager Straße 81",
+          "TELEFON": "01 271 16 62",
+          "FAX": "01 271 16 62",
+          "EMAIL": "schutzengel@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5293",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.383488494864952, 48.28727529287623]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853960,
+          "BEZEICHNUNG": "Vital Apotheke Strebersdorf",
+          "BEZIRK": 21,
+          "STRASSE": "Prager Straße",
+          "ONR": "276",
+          "ADRESSE": "21., Prager Straße 276",
+          "TELEFON": "01 292 20 85",
+          "FAX": "01 292 20 85",
+          "EMAIL": "info@vitalapo-strebersdorf.at",
+          "WEBLINK1": "http://www.vitalapo-strebersdorf.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5294",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.38801501084898, 48.29319151331215]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853961,
+          "BEZEICHNUNG": "Danubia-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Russbergstraße",
+          "ONR": "64",
+          "ADRESSE": "21., Russbergstraße 64",
+          "TELEFON": "01 292 13 86",
+          "FAX": "01 292 13 86",
+          "EMAIL": "strebersdorf@danubiaapotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5295",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.447985215509608, 48.266846136898415]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853962,
+          "BEZEICHNUNG": "Apotheke 21",
+          "BEZIRK": 21,
+          "STRASSE": "Kürschnergasse",
+          "ONR": "1a",
+          "ADRESSE": "21., Kürschnergasse 1a",
+          "TELEFON": "01 890 32 28",
+          "FAX": "01 890 32 28",
+          "EMAIL": "info@apo21.at",
+          "WEBLINK1": "http://www.apo21.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5296",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.408984060861982, 48.27663697399408]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853963,
+          "BEZEICHNUNG": "Mariahilf-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Brünner Straße",
+          "ONR": "128",
+          "ADRESSE": "21., Brünner Straße 128",
+          "TELEFON": "01 292 15 89",
+          "FAX": "01 292 15 89",
+          "EMAIL": "mariahilf.apotheke@chello.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5297",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.445951840205954, 48.2725807552124]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853964,
+          "BEZEICHNUNG": "St. Anna-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Kürschnergasse",
+          "ONR": "9",
+          "ADRESSE": "21., Kürschnergasse 9, Großfeldzentrum",
+          "TELEFON": "01 259 85 13",
+          "FAX": "01 259 85 13",
+          "EMAIL": "st-anna-apotheke21@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5298",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.38956886345379, 48.20671370578807]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853938,
+          "BEZEICHNUNG": "Sophien-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Marxergasse",
+          "ONR": "22",
+          "ADRESSE": "3., Marxergasse 22",
+          "TELEFON": "01 713 47 84",
+          "FAX": "01 713 47 84",
+          "EMAIL": "office@sophien-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_5299",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.391047848019028, 48.201913683670405]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853939,
+          "BEZEICHNUNG": "Apotheke \"Zum schwarzen Adler\"",
+          "BEZIRK": 3,
+          "STRASSE": "Landstraßer Hauptstraße",
+          "ONR": "60",
+          "ADRESSE": "3., Landstraßer Hauptstraße 60",
+          "TELEFON": "01 712 44 42",
+          "FAX": "01 712 44 42",
+          "EMAIL": "martin.seipel@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529a",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.396323365047024, 48.195487804259585]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853940,
+          "BEZEICHNUNG": "St. Markus-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Landstraßer Hauptstraße",
+          "ONR": "130",
+          "ADRESSE": "3., Landstraßer Hauptstraße 130",
+          "TELEFON": "01 712 35 61",
+          "FAX": "01 712 35 61",
+          "EMAIL": "st.markus-apotheke@utanet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529b",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.393178288596015, 48.20850719828132]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853941,
+          "BEZEICHNUNG": "Apotheke \"Zum heiligen Othmar\"",
+          "BEZIRK": 3,
+          "STRASSE": "Hetzgasse",
+          "ONR": "37",
+          "ADRESSE": "3., Hetzgasse 37",
+          "TELEFON": "01 712 31 20",
+          "FAX": "01 712 31 20",
+          "EMAIL": "service@othmar-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529c",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.408863541902644, 48.195567789076925]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853942,
+          "BEZEICHNUNG": "Erdberg-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Schlachthausgasse",
+          "ONR": "11",
+          "ADRESSE": "3., Schlachthausgasse 11",
+          "TELEFON": "01 798 82 64",
+          "FAX": "01 798 82 64",
+          "EMAIL": "apo@erdberg-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529d",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.37816500251406, 48.18770799600899]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853943,
+          "BEZEICHNUNG": "Johannes-Apotheke",
+          "BEZIRK": 4,
+          "STRASSE": "Wiedner Gürtel",
+          "ONR": "14",
+          "ADRESSE": "4., Wiedner Gürtel 14",
+          "TELEFON": "01 504 61 79",
+          "FAX": "01 504 61 79",
+          "EMAIL": "Johannes-Apotheke@speed.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529e",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.420884961784875, 48.169307056537484]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853944,
+          "BEZEICHNUNG": "Ludwigs-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Simmeringer Hauptstraße",
+          "ONR": "128",
+          "ADRESSE": "11., Simmeringer Hauptstraße 128",
+          "TELEFON": "01 767 51 34",
+          "FAX": "01 767 51 34",
+          "EMAIL": "office@ludwigs-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_529f",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.47179706742421, 48.16952399667207]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853945,
+          "BEZEICHNUNG": "Apotheke \"Zur heiligen Elisabeth\"",
+          "BEZIRK": 11,
+          "STRASSE": "Landwehrstraße",
+          "ONR": "6",
+          "ADRESSE": "11., Landwehrstraße 6",
+          "TELEFON": "01 767 21 79",
+          "FAX": "01 767 21 79",
+          "EMAIL": "elisabeth-apotheke@inode.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a0",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.40954189865955, 48.17401222888542]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853946,
+          "BEZEICHNUNG": "Herder-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Ehamgasse",
+          "ONR": "4",
+          "ADRESSE": "11., Ehamgasse 4",
+          "TELEFON": "01 749 23 45",
+          "FAX": "01 749 23 45",
+          "EMAIL": "office@herder-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.428220141483035, 48.16982797101604]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853947,
+          "BEZEICHNUNG": "Neue Leopolds-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Geringergasse",
+          "ONR": "22",
+          "ADRESSE": "11., Geringergasse 22",
+          "TELEFON": "01 767 31 07",
+          "FAX": "01 767 31 07",
+          "EMAIL": "n.leopolds-apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.45410258085167, 48.15831971040942]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853948,
+          "BEZEICHNUNG": "Franziskus-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Thürnlhofstraße",
+          "ONR": "30",
+          "ADRESSE": "11., Thürnlhofstraße 30",
+          "TELEFON": "01 769 80 70",
+          "FAX": "01 769 80 70",
+          "EMAIL": "franziskus-apo11@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.401757250354322, 48.174766346038496]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853949,
+          "BEZEICHNUNG": "Geiselberg-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Geiselbergstraße",
+          "ONR": "26-32",
+          "ADRESSE": "11., Geiselbergstraße 26-32, Top 301",
+          "TELEFON": "01 743 20 33",
+          "FAX": "01 743 20 33",
+          "EMAIL": "geiselbergapotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a4",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.418618160057747, 48.185423474637545]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853950,
+          "BEZEICHNUNG": "Gasometer-Apotheke",
+          "BEZIRK": 11,
+          "STRASSE": "Guglgasse",
+          "ONR": "6",
+          "ADRESSE": "11., Guglgasse 6",
+          "TELEFON": "01 743 67 66",
+          "FAX": "01 743 67 66",
+          "EMAIL": "gasometer-apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a5",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.336045887285863, 48.180813534805615]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853951,
+          "BEZEICHNUNG": "Apotheke Meidling",
+          "BEZIRK": 12,
+          "STRASSE": "Albrechtsbergergasse",
+          "ONR": "13",
+          "ADRESSE": "12., Albrechtsbergergasse 13",
+          "TELEFON": "01 813 32 42",
+          "FAX": "01 813 32 42",
+          "EMAIL": "service@apomeidling.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a6",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.343214921704885, 48.182964954449815]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853952,
+          "BEZEICHNUNG": "Apotheke \"Zum heiligen Paulus\"",
+          "BEZIRK": 12,
+          "STRASSE": "Steinbauergasse",
+          "ONR": "15",
+          "ADRESSE": "12., Steinbauergasse 15",
+          "TELEFON": "01 815 02 26",
+          "FAX": "01 815 02 26",
+          "EMAIL": "mag.renate.mueller@inode.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a7",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.379560412383686, 48.294351078103894]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853965,
+          "BEZEICHNUNG": "C 21 Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Prager Straße",
+          "ONR": "286",
+          "ADRESSE": "21., Prager Straße 286",
+          "TELEFON": "01 292 29 25",
+          "FAX": "01 292 29 25",
+          "EMAIL": "info@c21-apotheke.at",
+          "WEBLINK1": "http://www.c21-apotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a8",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.38672745506714, 48.27792576235311]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853966,
+          "BEZEICHNUNG": "Floridus-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Autokaderstraße",
+          "ONR": "3",
+          "ADRESSE": "21., Autokaderstraße 3, Ladenzeile",
+          "TELEFON": "01 271 94 72",
+          "FAX": "01 271 94 72",
+          "EMAIL": null,
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52a9",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.40309121894976, 48.27335627946665]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853967,
+          "BEZEICHNUNG": "Apotheke Trillerpark",
+          "BEZIRK": 21,
+          "STRASSE": "Trillergasse",
+          "ONR": "4",
+          "ADRESSE": "21., Trillergasse 4",
+          "TELEFON": "01 292 77 08",
+          "FAX": "01 292 77 08 15",
+          "EMAIL": "apotrillerpark@inode.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52aa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.42297547575807, 48.27754842351756]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853968,
+          "BEZEICHNUNG": "Marco-Polo-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Ruthnergasse",
+          "ONR": "89",
+          "ADRESSE": "21., Ruthnergasse 89",
+          "TELEFON": "01 292 79 72",
+          "FAX": "01 292 79 72",
+          "EMAIL": "marcopolo.apo@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ab",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.452744998839208, 48.27008136243716]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853969,
+          "BEZEICHNUNG": "Großfeld-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Adolf Loos-Gasse",
+          "ONR": "9",
+          "ADRESSE": "21., Adolf Loos-Gasse 9",
+          "TELEFON": "01 259 56 20",
+          "FAX": "01 259 56 20",
+          "EMAIL": "grossfeldapo@chello.at",
+          "WEBLINK1": "http://www.grossfeldapo.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ac",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.42066699647754, 48.29701507172922]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853970,
+          "BEZEICHNUNG": "Apotheke \"Zur heiligen Dreifaltigkeit\"",
+          "BEZIRK": 21,
+          "STRASSE": "Brünner Straße",
+          "ONR": "256",
+          "ADRESSE": "21., Brünner Straße 256",
+          "TELEFON": "01 292 26 60",
+          "FAX": "01 292 26 60",
+          "EMAIL": "apo.stammersdorf@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ad",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.334880969566843, 48.240824358253356]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853971,
+          "BEZEICHNUNG": "Krim-Apotheke",
+          "BEZIRK": 19,
+          "STRASSE": "Krottenbachstraße",
+          "ONR": "62",
+          "ADRESSE": "19., Krottenbachstraße 62",
+          "TELEFON": "01 368 22 02",
+          "FAX": "01 368 22 02",
+          "EMAIL": "apo-krim@via.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ae",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.33561185804273, 48.18929741196148]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853972,
+          "BEZEICHNUNG": "Apotheke \"Zum Erzengel Michael\"",
+          "BEZIRK": 15,
+          "STRASSE": "Sechshauser Straße",
+          "ONR": "16",
+          "ADRESSE": "15., Sechshauser Straße 16",
+          "TELEFON": "01 893 67 71",
+          "FAX": "01 893 67 71",
+          "EMAIL": "apo.zeidler@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52af",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.32838848213771, 48.210227283986086]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853973,
+          "BEZEICHNUNG": "Richard-Wagner-Apotheke",
+          "BEZIRK": 16,
+          "STRASSE": "Thaliastraße",
+          "ONR": "62",
+          "ADRESSE": "16., Thaliastraße 62",
+          "TELEFON": "01 486 42 17",
+          "FAX": "01 486 42 17",
+          "EMAIL": "office@richardwagnerapo.at",
+          "WEBLINK1": "http://www.richardwagnerapo.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b0",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.31009772707674, 48.21754012488731]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853974,
+          "BEZEICHNUNG": "Falken-Apotheke",
+          "BEZIRK": 16,
+          "STRASSE": "Wilhelminenstraße",
+          "ONR": "76",
+          "ADRESSE": "16., Wilhelminenstraße 76",
+          "TELEFON": "01 486 31 60",
+          "FAX": "01 486 31 60",
+          "EMAIL": "falken.apo@aon.at",
+          "WEBLINK1": "http://www.falken-apotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.32666264616399, 48.21297017521567]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853975,
+          "BEZEICHNUNG": "Neulerchenfelder-Apotheke",
+          "BEZIRK": 16,
+          "STRASSE": "Johann-Nepomuk-Berger-Platz",
+          "ONR": "2",
+          "ADRESSE": "16., Johann-Nepomuk-Berger-Platz 2",
+          "TELEFON": "01 486 36 16",
+          "FAX": "01 486 36 16",
+          "EMAIL": "neulerchenfelder.apo@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.33006635671598, 48.17455801731712]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853976,
+          "BEZEICHNUNG": "St. Anna-Apotheke",
+          "BEZIRK": 12,
+          "STRASSE": "Meidlinger Hauptstraße",
+          "ONR": "86",
+          "ADRESSE": "12., Meidlinger Hauptstraße 86",
+          "TELEFON": "01 813 10 62",
+          "FAX": "01 813 10 62",
+          "EMAIL": "info@apotheke-st-anna.at",
+          "WEBLINK1": "http://www.apotheke-st-anna.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.32916339802941, 48.18311838635714]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853977,
+          "BEZEICHNUNG": "Apotheke Schwenk \"Z.hl.Johann v.Nepomuk\"",
+          "BEZIRK": 12,
+          "STRASSE": "Schönbrunner Straße",
+          "ONR": "259",
+          "ADRESSE": "12., Schönbrunner Straße 259",
+          "TELEFON": "01 813 41 49",
+          "FAX": "01 813 41 49",
+          "EMAIL": "gesund@apotheke-schwenk.at",
+          "WEBLINK1": "http://www.apotheke-schwenk.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b4",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.310268875580466, 48.16685050518488]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853978,
+          "BEZEICHNUNG": "Klimt-Apotheke",
+          "BEZIRK": 12,
+          "STRASSE": "Hetzendorfer Straße",
+          "ONR": "75 A",
+          "ADRESSE": "12., Hetzendorfer Straße 75 A",
+          "TELEFON": "01 804 27 50",
+          "FAX": "01 804 27 50",
+          "EMAIL": "info@klimtapotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b5",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.321847244803454, 48.18060499275843]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853979,
+          "BEZEICHNUNG": "Maria-Lourdes-Apotheke",
+          "BEZIRK": 12,
+          "STRASSE": "Tivoligasse",
+          "ONR": "50",
+          "ADRESSE": "12., Tivoligasse 50",
+          "TELEFON": "01 813 72 18",
+          "FAX": "01 813 72 18",
+          "EMAIL": "office@mla.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b6",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.341088866168413, 48.177865435637315]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853980,
+          "BEZEICHNUNG": "Apotheke \"Am Fuchsenfeld\"",
+          "BEZIRK": 12,
+          "STRASSE": "Längenfeldgasse",
+          "ONR": "33",
+          "ADRESSE": "12., Längenfeldgasse 33",
+          "TELEFON": "01 813 10 77",
+          "FAX": "01 813 10 77",
+          "EMAIL": "w.thomann@apofuchs.at",
+          "WEBLINK1": "http://www.apofuchs.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b7",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.2994598002922, 48.1683305978738]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853981,
+          "BEZEICHNUNG": "Rosenhügel-Apotheke",
+          "BEZIRK": 12,
+          "STRASSE": "Münchenstraße",
+          "ONR": "10",
+          "ADRESSE": "12., Münchenstraße 10",
+          "TELEFON": "01 804 31 39",
+          "FAX": "01 804 31 39",
+          "EMAIL": "rosenhuegelapotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b8",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.402139731726436, 48.14251748156888]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853982,
+          "BEZEICHNUNG": "Kur-Apotheke Oberlaa",
+          "BEZIRK": 10,
+          "STRASSE": "Kurbadstraße",
+          "ONR": "14",
+          "ADRESSE": "10., Kurbadstraße 14",
+          "TELEFON": "01 688 13 23",
+          "FAX": "01 688 13 23 30",
+          "EMAIL": "kur@apothekenoberlaa.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52b9",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.435028641272073, 48.242417241029685]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853983,
+          "BEZEICHNUNG": "Apotheke Regenwald",
+          "BEZIRK": 22,
+          "STRASSE": "Wagramer Straße",
+          "ONR": "81",
+          "ADRESSE": "22., Wagramer Straße 81, Top 134",
+          "TELEFON": "01 202 28 13",
+          "FAX": "01 202 28 13/4",
+          "EMAIL": "apotheke-rw@vitalpartner.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ba",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.325608217383383, 48.2018758749218]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853984,
+          "BEZEICHNUNG": "Sonnschein-Apotheke",
+          "BEZIRK": 15,
+          "STRASSE": "Witzelsbergergasse",
+          "ONR": "26-28",
+          "ADRESSE": "15., Witzelsbergergasse 26-28",
+          "TELEFON": "01 786 15 85",
+          "FAX": "01 786 15 85 16",
+          "EMAIL": "info@sonnschein-apo.at",
+          "WEBLINK1": "http://www.sonnschein-apo.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52bb",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.26676992390248, 48.18715095959116]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853985,
+          "BEZEICHNUNG": "San Vito Apotheke",
+          "BEZIRK": 13,
+          "STRASSE": "Einsiedeleigasse",
+          "ONR": "10",
+          "ADRESSE": "13., Einsiedeleigasse 10",
+          "TELEFON": "01 877 86 78",
+          "FAX": "01 877 86 78 77",
+          "EMAIL": "info@sanvito.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52bc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.307802392020733, 48.20413767582389]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853986,
+          "BEZEICHNUNG": "Bach Apotheke",
+          "BEZIRK": 16,
+          "STRASSE": "Steinbruchstraße",
+          "ONR": "6",
+          "ADRESSE": "16., Steinbruchstraße 6",
+          "TELEFON": "01 98 20 900",
+          "FAX": "01 98 20 900 20",
+          "EMAIL": "kontakt@bachapotheke.at",
+          "WEBLINK1": "http://www.bachapotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52bd",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.276154110762192, 48.1917755407002]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853987,
+          "BEZEICHNUNG": "Apotheke an der Wien",
+          "BEZIRK": 13,
+          "STRASSE": "Hietzinger Kai",
+          "ONR": "143",
+          "ADRESSE": "13., Hietzinger Kai 143",
+          "TELEFON": "01 890 56 56",
+          "FAX": "01 890 56 56 10",
+          "EMAIL": "office@apothekeanderwien",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52be",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.384355360812805, 48.21854406468785]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853988,
+          "BEZEICHNUNG": "Apotheke \"Zum Patriarchen\"",
+          "BEZIRK": 2,
+          "STRASSE": "Blumauergasse",
+          "ONR": "15",
+          "ADRESSE": "2., Blumauergasse 15",
+          "TELEFON": "01 214 22 80",
+          "FAX": "01 214 22 80",
+          "EMAIL": "patriarch@aewige.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52bf",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.399421067399572, 48.21819582610304]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853989,
+          "BEZEICHNUNG": "Prater-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Ausstellungsstraße",
+          "ONR": "13",
+          "ADRESSE": "2., Ausstellungsstraße 13",
+          "TELEFON": "01 728 04 19",
+          "FAX": "01 728 04 19",
+          "EMAIL": "prater-apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c0",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.385523372342924, 48.223508804515376]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853990,
+          "BEZEICHNUNG": "Schwan-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Lessinggasse",
+          "ONR": "23",
+          "ADRESSE": "2., Lessinggasse 23",
+          "TELEFON": "01 214 10 86",
+          "FAX": "01 214 10 86",
+          "EMAIL": null,
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.384378644335044, 48.21439342001198]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853991,
+          "BEZEICHNUNG": "Apotheke \"Zum guten Hirten\"",
+          "BEZIRK": 2,
+          "STRASSE": "Praterstraße",
+          "ONR": "32",
+          "ADRESSE": "2., Praterstraße 32",
+          "TELEFON": "01 214 63 35",
+          "FAX": "01 214 63 35",
+          "EMAIL": "guterhirte@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.380995907619365, 48.217298876564286]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853992,
+          "BEZEICHNUNG": "Bären-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Taborstraße",
+          "ONR": "26",
+          "ADRESSE": "2., Taborstraße 26",
+          "TELEFON": "01 214 51 11",
+          "FAX": "01 214 51 11",
+          "EMAIL": "baerenapo@aponet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.38854621357277, 48.216594482059214]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853993,
+          "BEZEICHNUNG": "Apotheke \"Zur alten Jägerzeile\"",
+          "BEZIRK": 2,
+          "STRASSE": "Praterstraße",
+          "ONR": "66",
+          "ADRESSE": "2., Praterstraße 66",
+          "TELEFON": "01 214 01 74",
+          "FAX": "01 214 01 74",
+          "EMAIL": "apo.alte.jaegerzeile@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c4",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.382076301797184, 48.22205126728252]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853994,
+          "BEZEICHNUNG": "Apotheke \"Zum heiligen Josef\"",
+          "BEZIRK": 2,
+          "STRASSE": "Taborstraße",
+          "ONR": "63",
+          "ADRESSE": "2., Taborstraße 63",
+          "TELEFON": "01 216 30 49",
+          "FAX": "01 216 30 49",
+          "EMAIL": "office@apo-hljosef.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c5",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.399857106267685, 48.225419732070115]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853995,
+          "BEZEICHNUNG": "Christinen-Apotheke",
+          "BEZIRK": 2,
+          "STRASSE": "Vorgartenstraße",
+          "ONR": "132",
+          "ADRESSE": "2., Vorgartenstraße 132",
+          "TELEFON": "01 218 65 31",
+          "FAX": "01 218 65 31",
+          "EMAIL": "christinen.apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c6",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.392605815879612, 48.19701827138995]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853996,
+          "BEZEICHNUNG": "Segen-Gottes-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Boerhaavegasse",
+          "ONR": "7",
+          "ADRESSE": "3., Boerhaavegasse 7",
+          "TELEFON": "01 712 52 91",
+          "FAX": "01 712 52 91",
+          "EMAIL": "zastiera@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c7",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.387563686841716, 48.19879940989215]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853997,
+          "BEZEICHNUNG": "Neuling-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Ungargasse",
+          "ONR": "51",
+          "ADRESSE": "3., Ungargasse 51",
+          "TELEFON": "01 712 62 17",
+          "FAX": "01 712 62 17",
+          "EMAIL": "neuling-apotheke@telering.at",
+          "WEBLINK1": "http://neuling.apo.or.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c8",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.380927865415682, 48.1983791452665]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853998,
+          "BEZEICHNUNG": "Salesianer-Apotheke",
+          "BEZIRK": 3,
+          "STRASSE": "Salesianergasse",
+          "ONR": "14",
+          "ADRESSE": "3., Salesianergasse 14",
+          "TELEFON": "01 713 14 59",
+          "FAX": "01 713 14 59",
+          "EMAIL": "salesianer.apotheke@aponet.at",
+          "WEBLINK1": "http://www.salesianerapotheke.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52c9",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.42047167291477, 48.253286640032016]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 853999,
+          "BEZEICHNUNG": "Donau Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Donaufelder Straße",
+          "ONR": "99",
+          "ADRESSE": "21., Donaufelder Straße 99",
+          "TELEFON": "01 256 97 97",
+          "FAX": "01 256 97 97",
+          "EMAIL": "donau-apo.wien@aponet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ca",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.244654855917464, 48.137738358684494]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854000,
+          "BEZEICHNUNG": "APO 23 Kalksburg",
+          "BEZIRK": 23,
+          "STRASSE": "Kalksburg-Kirchenplatz",
+          "ONR": "5",
+          "ADRESSE": "23., Kalksburg-Kirchenplatz 5",
+          "TELEFON": "01 890 62 65",
+          "FAX": "01 890 62 65",
+          "EMAIL": "info@apo23.at",
+          "WEBLINK1": "http://www.apo23.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52cb",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.41273330459427, 48.28295228607302]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854001,
+          "BEZEICHNUNG": "Apotheke \"Zum Weinstock\"",
+          "BEZIRK": 21,
+          "STRASSE": "Brünner Straße",
+          "ONR": "180",
+          "ADRESSE": "21., Brünner Straße 180",
+          "TELEFON": "01 292 97 50",
+          "FAX": "01 2929750-30",
+          "EMAIL": "apotheke@zumweinstock.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52cc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.39973914829072, 48.26750347078487]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854002,
+          "BEZEICHNUNG": "SCN-Apotheke",
+          "BEZIRK": 21,
+          "STRASSE": "Ignaz Köck-Straße",
+          "ONR": "1-7",
+          "ADRESSE": "21., Ignaz Köck-Straße 1-7",
+          "TELEFON": "01 271 90 31",
+          "FAX": "01 271 90 31",
+          "EMAIL": "scn-apotheke@utanet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52cd",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.489151766077253, 48.21685578472256]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854003,
+          "BEZEICHNUNG": "Apotheke \"Zum Löwen von Aspern\"",
+          "BEZIRK": 22,
+          "STRASSE": "Groß Enzersdorfer Straße",
+          "ONR": "4",
+          "ADRESSE": "22., Groß Enzersdorfer Straße 4",
+          "TELEFON": "01 282 13 82",
+          "FAX": "01 282 13 82",
+          "EMAIL": "office@apo-aspern.at",
+          "WEBLINK1": "http://www.apo-aspern.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52ce",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.421919280468234, 48.227109057706]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854004,
+          "BEZEICHNUNG": "St. Hubertus-Apotheke",
+          "BEZIRK": 22,
+          "STRASSE": "Schüttaustraße",
+          "ONR": "54",
+          "ADRESSE": "22., Schüttaustraße 54",
+          "TELEFON": "01 263 35 51",
+          "FAX": "01 263 35 51",
+          "EMAIL": "info@apotheke22.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52cf",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.45394226380861, 48.224819006525614]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854005,
+          "BEZEICHNUNG": "Apotheke \"Zur Madonna\"",
+          "BEZIRK": 22,
+          "STRASSE": "Langobardenstraße",
+          "ONR": "16",
+          "ADRESSE": "22., Langobardenstraße 16",
+          "TELEFON": "01 282 22 76",
+          "FAX": "01 282 22 76",
+          "EMAIL": "madonna@aponet.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52d0",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.445747895062205, 48.23264228225688]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854006,
+          "BEZEICHNUNG": "Apotheke Neu Kagran",
+          "BEZIRK": 22,
+          "STRASSE": "Erzherzog-Karl-Straße",
+          "ONR": "84-88",
+          "ADRESSE": "22., Erzherzog-Karl-Straße 84-88",
+          "TELEFON": "01 202 58 02",
+          "FAX": "01 202 58 02",
+          "EMAIL": "apo@apo-neukagran.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52d1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.443989467281924, 48.250017903023675]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854007,
+          "BEZEICHNUNG": "St. Georg-Apotheke",
+          "BEZIRK": 22,
+          "STRASSE": "Kagraner Platz",
+          "ONR": "1-4/Top 1",
+          "ADRESSE": "22., Kagraner Platz 1-4/Top 1",
+          "TELEFON": "01 203 31 83",
+          "FAX": "01 203 31 83",
+          "EMAIL": "St.Georgs.Apotheke@aon.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52d2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.472301696530494, 48.23472145297288]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854008,
+          "BEZEICHNUNG": "Nordost-Apotheke",
+          "BEZIRK": 22,
+          "STRASSE": "Emichgasse",
+          "ONR": "8",
+          "ADRESSE": "22., Emichgasse 8",
+          "TELEFON": "01 282 51 37",
+          "FAX": "01 282 51 37",
+          "EMAIL": "office@nordost-apotheke.at",
+          "WEBLINK1": null,
+          "SE_ANNO_CAD_DATA": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "APOTHEKEOGD.fid--35872b4c_16fd7ee5002_52d3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.438208796322233, 48.241397424392105]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+          "OBJECTID": 854009,
+          "BEZEICHNUNG": "Apotheke Donauzentrum",
+          "BEZIRK": 22,
+          "STRASSE": "Curiegasse",
+          "ONR": "5",
+          "ADRESSE": "22., Curiegasse 5, Bernoullistraße 1",
+          "TELEFON": "01 203 36 88",
+          "FAX": "01 203 36 88",
+          "EMAIL": "info@pillendreher.at",
+          "WEBLINK1": "http://www.pillendreher.at",
+          "SE_ANNO_CAD_DATA": null
+        }
+      }
+    ],
+    
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:EPSG::4326" }
+    }
+      
+  }

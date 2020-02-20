@@ -1,0 +1,14 @@
+Erstelle eine App mit alle Ambulanzen in der Stadt Wien
+https://www.data.gv.at/katalog/dataset/7fcf7f09-12d7-4b06-a183-93c51f940670
+Ambulanzen in öffentlichen Krankenhäusern Standorte Wien - Datensätze - data.gv.at
+www.data.gv.at
+Ambulanz, Standorte in öffentlichen Krankenhäusern, Wien
+
+- Katalog für Ambulanzen in der Stadt Wien
+- Suche in Liste der Ambulanzen
+Eigener Standort wird abgefragt (Permissions Android)
+// Liste sortieren nach Entfernung (Luftlinie)
+Favoriten speichern (lokal Async Storage)
+-  Bottom Navigation, Suche, Favoriten und Impressum
+
+Viel Erfolg
